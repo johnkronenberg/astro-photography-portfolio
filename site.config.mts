@@ -8,14 +8,14 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'JK',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'John Kronenberg',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/johnkronenberg/astro-photography-portfolio',
 			icon: Github,
 		} as SocialLink,
 		{
