@@ -4,12 +4,12 @@ collections:
   - id: straat
     name: Straat
 images:
-  - path: street/DSC_0093.jpg
+  - path: straat/DSC_0093.jpg
     meta:
       title: Dsc 0093
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T14:30:42.000Z
       fNumber: 10
@@ -18,12 +18,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0094.jpg
+  - path: straat/DSC_0094.jpg
     meta:
       title: Dsc 0094
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T14:32:20.000Z
       fNumber: 10
@@ -32,12 +32,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 60
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0096.jpg
+  - path: straat/DSC_0096.jpg
     meta:
       title: Dsc 0096
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T14:39:34.000Z
       fNumber: 10
@@ -46,12 +46,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 60
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0101.jpg
+  - path: straat/DSC_0101.jpg
     meta:
       title: Dsc 0101
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T15:45:43.000Z
       fNumber: 10
@@ -60,12 +60,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0102.jpg
+  - path: straat/DSC_0102.jpg
     meta:
       title: Dsc 0102
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T15:45:57.000Z
       fNumber: 10
@@ -74,12 +74,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0104.jpg
+  - path: straat/DSC_0104.jpg
     meta:
       title: Dsc 0104
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T15:48:54.000Z
       fNumber: 10
@@ -88,12 +88,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0107.jpg
+  - path: straat/DSC_0107.jpg
     meta:
       title: Dsc 0107
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:22:46.000Z
       fNumber: 10
@@ -102,12 +102,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0112.jpg
+  - path: straat/DSC_0112.jpg
     meta:
       title: Dsc 0112
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:25:37.000Z
       fNumber: 10
@@ -116,12 +116,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0114.jpg
+  - path: straat/DSC_0114.jpg
     meta:
       title: Dsc 0114
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:26:09.000Z
       fNumber: 10
@@ -130,12 +130,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 80
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0115.jpg
+  - path: straat/DSC_0115.jpg
     meta:
       title: Dsc 0115
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:26:48.000Z
       fNumber: 10
@@ -144,12 +144,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0125.jpg
+  - path: straat/DSC_0125.jpg
     meta:
       title: Dsc 0125
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:34:19.000Z
       fNumber: 5.6
@@ -158,12 +158,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 200
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0126.jpg
+  - path: straat/DSC_0126.jpg
     meta:
       title: Dsc 0126
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:34:30.000Z
       fNumber: 5.6
@@ -172,12 +172,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 200
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0129.jpg
+  - path: straat/DSC_0129.jpg
     meta:
       title: Dsc 0129
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:36:40.000Z
       fNumber: 5.6
@@ -186,12 +186,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0130.jpg
+  - path: straat/DSC_0130.jpg
     meta:
       title: Dsc 0130
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:37:35.000Z
       fNumber: 5.6
@@ -200,12 +200,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0132.jpg
+  - path: straat/DSC_0132.jpg
     meta:
       title: Dsc 0132
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:39:02.000Z
       fNumber: 5.6
@@ -214,12 +214,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0135.jpg
+  - path: straat/DSC_0135.jpg
     meta:
       title: Dsc 0135
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:39:58.000Z
       fNumber: 5.6
@@ -228,12 +228,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 400
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0136.jpg
+  - path: straat/DSC_0136.jpg
     meta:
       title: Dsc 0136
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:40:27.000Z
       fNumber: 5.6
@@ -242,12 +242,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 320
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0138.jpg
+  - path: straat/DSC_0138.jpg
     meta:
       title: Dsc 0138
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:41:44.000Z
       fNumber: 5.6
@@ -256,12 +256,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0139.jpg
+  - path: straat/DSC_0139.jpg
     meta:
       title: Dsc 0139
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:43:01.000Z
       fNumber: 5.6
@@ -270,12 +270,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 320
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0141.jpg
+  - path: straat/DSC_0141.jpg
     meta:
       title: Dsc 0141
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:45:38.000Z
       fNumber: 5.6
@@ -284,12 +284,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0143.jpg
+  - path: straat/DSC_0143.jpg
     meta:
       title: Dsc 0143
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:47:24.000Z
       fNumber: 5.6
@@ -298,12 +298,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 250
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0144.jpg
+  - path: straat/DSC_0144.jpg
     meta:
       title: Dsc 0144
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T16:57:29.000Z
       fNumber: 5.6
@@ -312,12 +312,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0148.jpg
+  - path: straat/DSC_0148.jpg
     meta:
       title: Dsc 0148
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T20:12:28.000Z
       fNumber: 5.6
@@ -326,12 +326,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0151.jpg
+  - path: straat/DSC_0151.jpg
     meta:
       title: Dsc 0151
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T20:16:49.000Z
       fNumber: 5.6
@@ -340,12 +340,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0152.jpg
+  - path: straat/DSC_0152.jpg
     meta:
       title: Dsc 0152
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T20:17:12.000Z
       fNumber: 5.6
@@ -354,12 +354,12 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: street/DSC_0155.jpg
+  - path: straat/DSC_0155.jpg
     meta:
       title: Dsc 0155
       description: ''
       collections:
-        - street
+        - straat
     exif:
       captureDate: 2026-10-01T20:33:01.000Z
       fNumber: 5.6
