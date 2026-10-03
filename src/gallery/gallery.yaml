@@ -6,85 +6,367 @@ collections:
   - id: street
     name: Street
 images:
-  - path: nature/nature-2.jpg
+  - path: street/DSC_0093.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
-    meta:
-      title: Nature 1
+      title: Dsc 0093
       description: ''
       collections:
-        - nature
-    exif: {}
+        - street
+    exif:
+      captureDate: 2026-10-01T14:30:42.000Z
+      fNumber: 10
+      focalLength: 11
+      iso: 2500
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0094.jpg
+    meta:
+      title: Dsc 0094
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T14:32:20.000Z
+      fNumber: 10
+      focalLength: 10
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 60
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0096.jpg
+    meta:
+      title: Dsc 0096
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T14:39:34.000Z
+      fNumber: 10
+      focalLength: 10
+      iso: 1600
+      model: NIKON 1 J5
+      shutterSpeed: 60
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0101.jpg
+    meta:
+      title: Dsc 0101
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T15:45:43.000Z
+      fNumber: 10
+      focalLength: 30
+      iso: 720
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0102.jpg
+    meta:
+      title: Dsc 0102
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T15:45:57.000Z
+      fNumber: 10
+      focalLength: 30
+      iso: 560
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0104.jpg
+    meta:
+      title: Dsc 0104
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T15:48:54.000Z
+      fNumber: 10
+      focalLength: 14
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0107.jpg
+    meta:
+      title: Dsc 0107
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:22:46.000Z
+      fNumber: 10
+      focalLength: 10
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0112.jpg
+    meta:
+      title: Dsc 0112
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:25:37.000Z
+      fNumber: 10
+      focalLength: 10
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0114.jpg
+    meta:
+      title: Dsc 0114
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:26:09.000Z
+      fNumber: 10
+      focalLength: 17.2
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 80
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0115.jpg
+    meta:
+      title: Dsc 0115
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:26:48.000Z
+      fNumber: 10
+      focalLength: 30
+      iso: 640
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0125.jpg
+    meta:
+      title: Dsc 0125
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:34:19.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0126.jpg
+    meta:
+      title: Dsc 0126
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:34:30.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0129.jpg
+    meta:
+      title: Dsc 0129
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:36:40.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 180
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0130.jpg
+    meta:
+      title: Dsc 0130
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:37:35.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 250
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0132.jpg
+    meta:
+      title: Dsc 0132
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:39:02.000Z
+      fNumber: 5.6
+      focalLength: 10.6
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0135.jpg
+    meta:
+      title: Dsc 0135
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:39:58.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0136.jpg
+    meta:
+      title: Dsc 0136
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:40:27.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0138.jpg
+    meta:
+      title: Dsc 0138
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:41:44.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 180
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0139.jpg
+    meta:
+      title: Dsc 0139
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:43:01.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0141.jpg
+    meta:
+      title: Dsc 0141
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:45:38.000Z
+      fNumber: 5.6
+      focalLength: 11.2
+      iso: 360
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0143.jpg
+    meta:
+      title: Dsc 0143
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:47:24.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0144.jpg
+    meta:
+      title: Dsc 0144
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T16:57:29.000Z
+      fNumber: 5.6
+      focalLength: 12.8
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0148.jpg
+    meta:
+      title: Dsc 0148
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T20:12:28.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 4000
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0151.jpg
+    meta:
+      title: Dsc 0151
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T20:16:49.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 2500
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0152.jpg
+    meta:
+      title: Dsc 0152
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T20:17:12.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 4000
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: street/DSC_0155.jpg
+    meta:
+      title: Dsc 0155
+      description: ''
+      collections:
+        - street
+    exif:
+      captureDate: 2026-10-01T20:33:01.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 2000
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
