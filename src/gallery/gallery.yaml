@@ -1,10 +1,8 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: landschap
+    name: Landschap
+  - id: straat
+    name: Straat
 images:
   - path: street/DSC_0093.jpg
     meta:
