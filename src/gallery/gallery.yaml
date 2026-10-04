@@ -3,11 +3,13 @@ collections:
     name: Landschap
   - id: straat
     name: Straat
+  - id: temp
+    name: Temp
 images:
   - path: straat/DSC_0093.jpg
     meta:
       title: Dsc 0093
-      description: 'Enschede, 1 oktober 2026, bus naar Enschede CS'
+      description: Enschede, 1 oktober 2026, bus naar Enschede CS
       collections:
         - straat
         - featured
@@ -22,7 +24,7 @@ images:
   - path: straat/DSC_0094.jpg
     meta:
       title: Dsc 0094
-      description: 'Enschede, 1 oktober 2026, bus naar Enschede CS'
+      description: Enschede, 1 oktober 2026, bus naar Enschede CS
       collections:
         - straat
     exif:
@@ -36,7 +38,7 @@ images:
   - path: straat/DSC_0096.jpg
     meta:
       title: Dsc 0096
-      description: 'Enschede CS, 1 oktober 2026, trein Enschede - Apeldoorn'
+      description: Enschede CS, 1 oktober 2026, trein Enschede - Apeldoorn
       collections:
         - straat
     exif:
@@ -50,7 +52,7 @@ images:
   - path: straat/DSC_0101.jpg
     meta:
       title: Dsc 0101
-      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
+      description: Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn
       collections:
         - straat
     exif:
@@ -64,7 +66,7 @@ images:
   - path: straat/DSC_0102bw.jpg
     meta:
       title: Dsc 0102bw
-      description: 'Apeldoorn CS, 1 oktober 2026, Skateboarden op Stationsplein Apeldoorn'
+      description: Apeldoorn CS, 1 oktober 2026, Skateboarden op Stationsplein Apeldoorn
       collections:
         - straat
     exif:
@@ -78,7 +80,7 @@ images:
   - path: straat/DSC_0104.jpg
     meta:
       title: Dsc 0104
-      description: 'Apeldoorn CS, 1 oktober 2026, Skateboardbaan op Stationsplein Apeldoorn'
+      description: Apeldoorn CS, 1 oktober 2026, Skateboardbaan op Stationsplein Apeldoorn
       collections:
         - straat
     exif:
@@ -92,7 +94,7 @@ images:
   - path: straat/DSC_0107bw.jpg
     meta:
       title: Dsc 0107bw
-      description: 'Apeldoorn CS, 1 oktober 2026, Apeldoorn CS inloop'
+      description: Apeldoorn CS, 1 oktober 2026, Apeldoorn CS inloop
       collections:
         - straat
     exif:
@@ -106,7 +108,9 @@ images:
   - path: straat/DSC_0112.jpg
     meta:
       title: Dsc 0112
-      description: 'Apeldoorn CS, 1 oktober 2026, Anna van Toor meisje op Stationsplein Apeldoorn'
+      description: >-
+        Apeldoorn CS, 1 oktober 2026, Anna van Toor meisje op Stationsplein
+        Apeldoorn
       collections:
         - straat
     exif:
@@ -120,7 +124,7 @@ images:
   - path: straat/DSC_0114.jpg
     meta:
       title: Dsc 0114
-      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
+      description: Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn
       collections:
         - straat
     exif:
@@ -134,7 +138,7 @@ images:
   - path: straat/DSC_0115.jpg
     meta:
       title: Dsc 0115
-      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
+      description: Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn
       collections:
         - straat
     exif:
@@ -148,7 +152,7 @@ images:
   - path: straat/DSC_0125.jpg
     meta:
       title: Dsc 0125
-      description: 'Apeldoorn, 1 oktober 2026, Fatbike in de winkelstraat'
+      description: Apeldoorn, 1 oktober 2026, Fatbike in de winkelstraat
       collections:
         - straat
         - featured
@@ -163,7 +167,7 @@ images:
   - path: straat/DSC_0126.jpg
     meta:
       title: Dsc 0126
-      description: 'Apeldoorn, 1 oktober 2026, Winkelen in Apeldoorn'
+      description: Apeldoorn, 1 oktober 2026, Winkelen in Apeldoorn
       collections:
         - straat
         - featured
@@ -178,7 +182,9 @@ images:
   - path: straat/DSC_0129.jpg
     meta:
       title: Dsc 0129
-      description: 'Apeldoorn, 1 oktober 2026, wachten voor de Mac Donalds, Winkelstraat Apeldoorn'
+      description: >-
+        Apeldoorn, 1 oktober 2026, wachten voor de Mac Donalds, Winkelstraat
+        Apeldoorn
       collections:
         - straat
         - featured
@@ -193,7 +199,7 @@ images:
   - path: straat/DSC_0130.jpg
     meta:
       title: Dsc 0130
-      description: 'Apeldoorn, 1 oktober 2026, op de bakfiets in Apeldoorn - BABBOE'
+      description: Apeldoorn, 1 oktober 2026, op de bakfiets in Apeldoorn - BABBOE
       collections:
         - straat
         - featured
@@ -208,7 +214,7 @@ images:
   - path: straat/DSC_0132.jpg
     meta:
       title: Dsc 0132
-      description: 'Apeldoorn, 1 oktober 2026, shoppen in Apeldoorn'
+      description: Apeldoorn, 1 oktober 2026, shoppen in Apeldoorn
       collections:
         - straat
     exif:
@@ -222,7 +228,7 @@ images:
   - path: straat/DSC_0135.jpg
     meta:
       title: Dsc 0135
-      description: 'Apeldoorn, 1 oktober 2026, even rusten in Apeldoorn'
+      description: Apeldoorn, 1 oktober 2026, even rusten in Apeldoorn
       collections:
         - straat
     exif:
@@ -236,7 +242,7 @@ images:
   - path: straat/DSC_0136.jpg
     meta:
       title: Dsc 0136
-      description: 'Apeldoorn, 1 oktober 2026, voor de loempiakraam Apeldoorn'
+      description: Apeldoorn, 1 oktober 2026, voor de loempiakraam Apeldoorn
       collections:
         - straat
     exif:
@@ -250,7 +256,7 @@ images:
   - path: straat/DSC_0138.jpg
     meta:
       title: Dsc 0138
-      description: 'Apeldoorn, 1 oktober 2026, op de scooter in Apeldoorn'
+      description: Apeldoorn, 1 oktober 2026, op de scooter in Apeldoorn
       collections:
         - straat
     exif:
@@ -264,7 +270,7 @@ images:
   - path: straat/DSC_0139.jpg
     meta:
       title: Dsc 0139
-      description: 'Apeldoorn, 1 oktober 2026, regen op de stenen'
+      description: Apeldoorn, 1 oktober 2026, regen op de stenen
       collections:
         - straat
     exif:
@@ -278,7 +284,7 @@ images:
   - path: straat/DSC_0141bw.jpg
     meta:
       title: Dsc 0141bw
-      description: 'Apeldoorn, 1 oktober 2026, de oude Hema'
+      description: Apeldoorn, 1 oktober 2026, de oude Hema
       collections:
         - straat
     exif:
@@ -292,7 +298,7 @@ images:
   - path: straat/DSC_0143.jpg
     meta:
       title: Dsc 0143
-      description: 'Apeldoorn, 1 oktober 2026, vrouw passeert de Hunkemoller'
+      description: Apeldoorn, 1 oktober 2026, vrouw passeert de Hunkemoller
       collections:
         - straat
         - featured
@@ -307,7 +313,7 @@ images:
   - path: straat/DSC_0144.jpg
     meta:
       title: Dsc 0144
-      description: 'Apeldoorn, 1 oktober 2026, met elkaar door centrum wandelen'
+      description: Apeldoorn, 1 oktober 2026, met elkaar door centrum wandelen
       collections:
         - straat
         - featured
@@ -322,7 +328,9 @@ images:
   - path: straat/DSC_0148.jpg
     meta:
       title: Dsc 0148
-      description: 'Apeldoorn, 1 oktober 2026, geweldige onscherpte en blur restaurant Apeldoorn'
+      description: >-
+        Apeldoorn, 1 oktober 2026, geweldige onscherpte en blur restaurant
+        Apeldoorn
       collections:
         - straat
         - featured
@@ -337,7 +345,7 @@ images:
   - path: straat/DSC_0151.jpg
     meta:
       title: Dsc 0151
-      description: '1 oktober 2026, In de trein Apeldoorn - Enschede'
+      description: 1 oktober 2026, In de trein Apeldoorn - Enschede
       collections:
         - straat
         - featured
@@ -352,7 +360,9 @@ images:
   - path: straat/DSC_0152bw.jpg
     meta:
       title: Dsc 0152bw
-      description: '1 oktober 2026, In de trein Apeldoorn - Enschede - mooie spiegeling van man met hoodie'
+      description: >-
+        1 oktober 2026, In de trein Apeldoorn - Enschede - mooie spiegeling van
+        man met hoodie
       collections:
         - straat
         - featured
@@ -367,7 +377,7 @@ images:
   - path: straat/DSC_0155.jpg
     meta:
       title: Dsc 0155
-      description: '1 oktober 2026, In de trein Apeldoorn - Enschede - de conducteurs'
+      description: 1 oktober 2026, In de trein Apeldoorn - Enschede - de conducteurs
       collections:
         - straat
     exif:
@@ -378,3 +388,733 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0157.jpg
+    meta:
+      title: Dsc 0157
+      description: 4 oktober 2026, wandeling door Enschede - lantaarn in de schaduw
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:34:36.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 800
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0160.jpg
+    meta:
+      title: Dsc 0160
+      description: 4 oktober 2026, wandeling door Enschede - witte zak tegen huisje
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:37:52.000Z
+      fNumber: 5.6
+      focalLength: 12.6
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0162.jpg
+    meta:
+      title: Dsc 0162
+      description: 4 oktober 2026, wandeling door Enschede - fietser in black, mooi mislukt
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:38:48.000Z
+      fNumber: 5.6
+      focalLength: 19.7
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 640
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0164.jpg
+    meta:
+      title: Dsc 0164
+      description: 4 oktober 2026, wandeling door Enschede - dame op fiets
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T13:40:15.000Z
+      fNumber: 5.6
+      focalLength: 18.9
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 800
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0166.jpg
+    meta:
+      title: Dsc 0166
+      description: 4 oktober 2026, wandeling door Enschede - man op fiets
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:40:51.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 640
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0168.jpg
+    meta:
+      title: Dsc 0168
+      description: 4 oktober 2026, wandeling door Enschede - man op fiets
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:41:11.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 800
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0173.jpg
+    meta:
+      title: Dsc 0173
+      description: 4 oktober 2026, wandeling door Enschede - graffiti
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:43:20.000Z
+      fNumber: 5.6
+      focalLength: 15.3
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0176.jpg
+    meta:
+      title: Dsc 0176
+      description: 4 oktober 2026, wandeling door Enschede - spiegeling bij de fotograaf
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:44:17.000Z
+      fNumber: 5.6
+      focalLength: 12.6
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0178.jpg
+    meta:
+      title: Dsc 0178
+      description: 4 oktober 2026, wandeling door Enschede - fietsen in de straat
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:45:20.000Z
+      fNumber: 5.6
+      focalLength: 11.6
+      iso: 250
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0179.jpg
+    meta:
+      title: Dsc 0179
+      description: >-
+        4 oktober 2026, wandeling door Enschede - jonge dame wandelt over de Van
+        Heekstraat
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T13:45:57.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 200
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0180.jpg
+    meta:
+      title: Dsc 0180
+      description: 4 oktober 2026, wandeling door Enschede - man en vrouw bij de bushalte
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:47:32.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0181.jpg
+    meta:
+      title: Dsc 0181
+      description: 4 oktober 2026, wandeling door Enschede - man en vrouw bij de bushalte
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:47:47.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0185.jpg
+    meta:
+      title: Dsc 0185
+      description: 4 oktober 2026, wandeling door Enschede - man over zijn telefoon gebogen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:50:12.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0195.jpg
+    meta:
+      title: Dsc 0195
+      description: 4 oktober 2026, wandeling door Enschede - man op ladder
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:58:45.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0197.jpg
+    meta:
+      title: Dsc 0197
+      description: 4 oktober 2026, wandeling door Enschede - stelletje aan het wandelen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T13:59:42.000Z
+      fNumber: 5.6
+      focalLength: 10.2
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 500
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0199.jpg
+    meta:
+      title: Dsc 0199
+      description: 4 oktober 2026, wandeling door Enschede - auto wassen
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:01:33.000Z
+      fNumber: 5.6
+      focalLength: 26
+      iso: 180
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0201.jpg
+    meta:
+      title: Dsc 0201
+      description: 4 oktober 2026, wandeling door Enschede - hardlopen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:02:16.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 220
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0202.jpg
+    meta:
+      title: Dsc 0202
+      description: 4 oktober 2026, wandeling door Enschede - wandelen
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:02:33.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 640
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0203.jpg
+    meta:
+      title: Dsc 0203
+      description: 4 oktober 2026, wandeling door Enschede - fatbiketerreur
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:03:05.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 800
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0214.jpg
+    meta:
+      title: Dsc 0214
+      description: 4 oktober 2026, wandeling door Enschede - fietsen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:19:55.000Z
+      fNumber: 5.6
+      focalLength: 10
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 640
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0220.jpg
+    meta:
+      title: Dsc 0220
+      description: 4 oktober 2026, wandeling door Enschede - dame op fiets
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:21:43.000Z
+      fNumber: 5.6
+      focalLength: 16.8
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0225.jpg
+    meta:
+      title: Dsc 0225
+      description: 4 oktober 2026, wandeling door Enschede - dames op de fiets
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:23:24.000Z
+      fNumber: 5.6
+      focalLength: 18.4
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0229.jpg
+    meta:
+      title: Dsc 0229
+      description: 4 oktober 2026, wandeling door Enschede - fietsen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:25:28.000Z
+      fNumber: 5.6
+      focalLength: 15.7
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0230.jpg
+    meta:
+      title: Dsc 0230
+      description: 4 oktober 2026, wandeling door Enschede - dame op fiets
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:26:00.000Z
+      fNumber: 5.6
+      focalLength: 15.7
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0239.jpg
+    meta:
+      title: Dsc 0239
+      description: 4 oktober 2026, wandeling door Enschede - autos in de tunnel
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:28:25.000Z
+      fNumber: 5.6
+      focalLength: 20.6
+      iso: 450
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0245.jpg
+    meta:
+      title: Dsc 0245
+      description: 4 oktober 2026, wandeling door Enschede - dame op de trap
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:30:33.000Z
+      fNumber: 5.6
+      focalLength: 13.4
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0249.jpg
+    meta:
+      title: Dsc 0249
+      description: 4 oktober 2026, wandeling door Enschede - fietsen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:33:37.000Z
+      fNumber: 5.6
+      focalLength: 24.4
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0260.jpg
+    meta:
+      title: Dsc 0260
+      description: 4 oktober 2026, wandeling door Enschede - fietsen
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-10-04T14:40:15.000Z
+      fNumber: 5.6
+      focalLength: 30
+      iso: 360
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0263.jpg
+    meta:
+      title: Dsc 0263
+      description: 4 oktober 2026, wandeling door Enschede - fietsen
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-10-04T14:41:45.000Z
+      fNumber: 5.6
+      focalLength: 22.3
+      iso: 160
+      model: NIKON 1 J5
+      shutterSpeed: 400
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0012.jpg
+    meta:
+      title: Dsc 0012
+      description: '25 september 2026, Enschede Centrum en omgeving - dame op fiets'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T14:40:26.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 160
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0017.jpg
+    meta:
+      title: Dsc 0017
+      description: '25 september 2026, Enschede Centrum en omgeving - dame in het wit'
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-09-25T14:46:34.000Z
+      fNumber: 11
+      focalLength: 24.8
+      iso: 280
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0018.jpg
+    meta:
+      title: Dsc 0018
+      description: '25 september 2026, Enschede Centrum en omgeving - zwart wit gestreept'
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-09-25T14:55:37.000Z
+      fNumber: 11
+      focalLength: 13.7
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 160
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0023.jpg
+    meta:
+      title: Dsc 0023
+      description: '25 september 2026, Enschede Centrum en omgeving - uitrusten'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T14:57:11.000Z
+      fNumber: 11
+      focalLength: 18.4
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0028.jpg
+    meta:
+      title: Dsc 0028
+      description: '25 september 2026, Enschede Centrum en omgeving - terras'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T16:18:35.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 60
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0030.jpg
+    meta:
+      title: Dsc 0030
+      description: '25 september 2026, Enschede Centrum en omgeving - patatje'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T16:50:32.000Z
+      fNumber: 11
+      focalLength: 10
+      iso: 2200
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0036.jpg
+    meta:
+      title: Dsc 0036
+      description: '25 september 2026, Enschede Centrum en omgeving - fiets tegen de muur'
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-09-25T17:22:20.000Z
+      fNumber: 11
+      focalLength: 24.4
+      iso: 1600
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0040.jpg
+    meta:
+      title: Dsc 0040
+      description: '25 september 2026, Enschede Centrum en omgeving - gebouw'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:24:49.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0042.jpg
+    meta:
+      title: Dsc 0042
+      description: '25 september 2026, Enschede Centrum en omgeving - fiets achter de voordeur'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:27:11.000Z
+      fNumber: 11
+      focalLength: 13.4
+      iso: 450
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0043.jpg
+    meta:
+      title: Dsc 0043
+      description: '25 september 2026, Enschede Centrum en omgeving - fiets kapot?'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:29:44.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 640
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0044.jpg
+    meta:
+      title: Dsc 0044
+      description: '25 september 2026, Enschede Centrum en omgeving - man op fiets'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:30:20.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 160
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0045.jpg
+    meta:
+      title: Dsc 0045
+      description: '25 september 2026, Enschede Centrum en omgeving - klussen'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:31:06.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 500
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0046.jpg
+    meta:
+      title: Dsc 0046
+      description: '25 september 2026, Enschede Centrum en omgeving - dame aan het klussen'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:31:22.000Z
+      fNumber: 11
+      focalLength: 30
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 200
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0052.jpg
+    meta:
+      title: Dsc 0052
+      description: '25 september 2026, Enschede Centrum en omgeving - man aan het wandelen'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:35:32.000Z
+      fNumber: 11
+      focalLength: 28.2
+      iso: 560
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0071.jpg
+    meta:
+      title: Dsc 0071
+      description: '25 september 2026, Enschede Centrum en omgeving - mooie auto'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:54:03.000Z
+      fNumber: 10
+      focalLength: 12.1
+      iso: 800
+      model: NIKON 1 J5
+      shutterSpeed: 125
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0074.jpg
+    meta:
+      title: Dsc 0074
+      description: '25 september 2026, Enschede Centrum en omgeving - scooter'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:54:59.000Z
+      fNumber: 10
+      focalLength: 19.7
+      iso: 1600
+      model: NIKON 1 J5
+      shutterSpeed: 40
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0076.jpg
+    meta:
+      title: Dsc 0076
+      description: '25 september 2026, Enschede Centrum en omgeving - bestelautos op een rij'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T17:58:11.000Z
+      fNumber: 10
+      focalLength: 22.7
+      iso: 360
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0078.jpg
+    meta:
+      title: Dsc 0078
+      description: '25 september 2026, Enschede Centrum en omgeving - felle zon'
+      collections:
+        - straat
+        - featured
+    exif:
+      captureDate: 2026-09-25T17:59:07.000Z
+      fNumber: 10
+      focalLength: 10
+      iso: 320
+      model: NIKON 1 J5
+      shutterSpeed: 250
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0083.jpg
+    meta:
+      title: Dsc 0083
+      description: '25 september 2026, Enschede Centrum en omgeving - mooi mislukt in kleur'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T18:01:52.000Z
+      fNumber: 10
+      focalLength: 21.8
+      iso: 1800
+      model: NIKON 1 J5
+      shutterSpeed: 30
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0086.jpg
+    meta:
+      title: Dsc 0086
+      description: '25 september 2026, Enschede Centrum en omgeving - fietser'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T18:04:03.000Z
+      fNumber: 4.8
+      focalLength: 21.8
+      iso: 1800
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0088.jpg
+    meta:
+      title: Dsc 0088
+      description: '25 september 2026, Enschede Centrum en omgeving - fietser'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T18:06:03.000Z
+      fNumber: 4.5
+      focalLength: 15.3
+      iso: 200
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  - path: straat/DSC_0089.jpg
+    meta:
+      title: Dsc 0089
+      description: '25 september 2026, Enschede Centrum en omgeving - fietser'
+      collections:
+        - straat
+    exif:
+      captureDate: 2026-09-25T18:13:12.000Z
+      fNumber: 3.5
+      focalLength: 10
+      iso: 400
+      model: NIKON 1 J5
+      shutterSpeed: 320
+      lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+  
