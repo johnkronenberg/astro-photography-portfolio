@@ -7,9 +7,10 @@ images:
   - path: straat/DSC_0093.jpg
     meta:
       title: Dsc 0093
-      description: ''
+      description: 'Enschede, 1 oktober 2026, bus naar Enschede CS'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T14:30:42.000Z
       fNumber: 10
@@ -21,7 +22,7 @@ images:
   - path: straat/DSC_0094.jpg
     meta:
       title: Dsc 0094
-      description: ''
+      description: 'Enschede, 1 oktober 2026, bus naar Enschede CS'
       collections:
         - straat
     exif:
@@ -35,7 +36,7 @@ images:
   - path: straat/DSC_0096.jpg
     meta:
       title: Dsc 0096
-      description: ''
+      description: 'Enschede CS, 1 oktober 2026, trein Enschede - Apeldoorn'
       collections:
         - straat
     exif:
@@ -49,7 +50,7 @@ images:
   - path: straat/DSC_0101.jpg
     meta:
       title: Dsc 0101
-      description: ''
+      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -60,10 +61,10 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: straat/DSC_0102.jpg
+  - path: straat/DSC_0102bw.jpg
     meta:
-      title: Dsc 0102
-      description: ''
+      title: Dsc 0102bw
+      description: 'Apeldoorn CS, 1 oktober 2026, Skateboarden op Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -77,7 +78,7 @@ images:
   - path: straat/DSC_0104.jpg
     meta:
       title: Dsc 0104
-      description: ''
+      description: 'Apeldoorn CS, 1 oktober 2026, Skateboardbaan op Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -88,10 +89,10 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 125
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: straat/DSC_0107.jpg
+  - path: straat/DSC_0107bw.jpg
     meta:
-      title: Dsc 0107
-      description: ''
+      title: Dsc 0107bw
+      description: 'Apeldoorn CS, 1 oktober 2026, Apeldoorn CS inloop'
       collections:
         - straat
     exif:
@@ -105,7 +106,7 @@ images:
   - path: straat/DSC_0112.jpg
     meta:
       title: Dsc 0112
-      description: ''
+      description: 'Apeldoorn CS, 1 oktober 2026, Anna van Toor meisje op Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -119,7 +120,7 @@ images:
   - path: straat/DSC_0114.jpg
     meta:
       title: Dsc 0114
-      description: ''
+      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -133,7 +134,7 @@ images:
   - path: straat/DSC_0115.jpg
     meta:
       title: Dsc 0115
-      description: ''
+      description: 'Apeldoorn CS, 1 oktober 2026, Stationsplein Apeldoorn'
       collections:
         - straat
     exif:
@@ -147,9 +148,10 @@ images:
   - path: straat/DSC_0125.jpg
     meta:
       title: Dsc 0125
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, Fatbike in de winkelstraat'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:34:19.000Z
       fNumber: 5.6
@@ -161,9 +163,10 @@ images:
   - path: straat/DSC_0126.jpg
     meta:
       title: Dsc 0126
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, Winkelen in Apeldoorn'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:34:30.000Z
       fNumber: 5.6
@@ -175,9 +178,10 @@ images:
   - path: straat/DSC_0129.jpg
     meta:
       title: Dsc 0129
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, wachten voor de Mac Donalds, Winkelstraat Apeldoorn'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:36:40.000Z
       fNumber: 5.6
@@ -189,9 +193,10 @@ images:
   - path: straat/DSC_0130.jpg
     meta:
       title: Dsc 0130
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, op de bakfiets in Apeldoorn - BABBOE'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:37:35.000Z
       fNumber: 5.6
@@ -203,7 +208,7 @@ images:
   - path: straat/DSC_0132.jpg
     meta:
       title: Dsc 0132
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, shoppen in Apeldoorn'
       collections:
         - straat
     exif:
@@ -217,7 +222,7 @@ images:
   - path: straat/DSC_0135.jpg
     meta:
       title: Dsc 0135
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, even rusten in Apeldoorn'
       collections:
         - straat
     exif:
@@ -231,7 +236,7 @@ images:
   - path: straat/DSC_0136.jpg
     meta:
       title: Dsc 0136
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, voor de loempiakraam Apeldoorn'
       collections:
         - straat
     exif:
@@ -245,7 +250,7 @@ images:
   - path: straat/DSC_0138.jpg
     meta:
       title: Dsc 0138
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, op de scooter in Apeldoorn'
       collections:
         - straat
     exif:
@@ -259,7 +264,7 @@ images:
   - path: straat/DSC_0139.jpg
     meta:
       title: Dsc 0139
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, regen op de stenen'
       collections:
         - straat
     exif:
@@ -270,10 +275,10 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 320
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: straat/DSC_0141.jpg
+  - path: straat/DSC_0141bw.jpg
     meta:
-      title: Dsc 0141
-      description: ''
+      title: Dsc 0141bw
+      description: 'Apeldoorn, 1 oktober 2026, de oude Hema'
       collections:
         - straat
     exif:
@@ -287,9 +292,10 @@ images:
   - path: straat/DSC_0143.jpg
     meta:
       title: Dsc 0143
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, vrouw passeert de Hunkemoller'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:47:24.000Z
       fNumber: 5.6
@@ -301,9 +307,10 @@ images:
   - path: straat/DSC_0144.jpg
     meta:
       title: Dsc 0144
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, met elkaar door centrum wandelen'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T16:57:29.000Z
       fNumber: 5.6
@@ -315,9 +322,10 @@ images:
   - path: straat/DSC_0148.jpg
     meta:
       title: Dsc 0148
-      description: ''
+      description: 'Apeldoorn, 1 oktober 2026, geweldige onscherpte en blur restaurant Apeldoorn'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T20:12:28.000Z
       fNumber: 5.6
@@ -329,9 +337,10 @@ images:
   - path: straat/DSC_0151.jpg
     meta:
       title: Dsc 0151
-      description: ''
+      description: '1 oktober 2026, In de trein Apeldoorn - Enschede'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T20:16:49.000Z
       fNumber: 5.6
@@ -340,12 +349,13 @@ images:
       model: NIKON 1 J5
       shutterSpeed: 30
       lensModel: 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
-  - path: straat/DSC_0152.jpg
+  - path: straat/DSC_0152bw.jpg
     meta:
-      title: Dsc 0152
-      description: ''
+      title: Dsc 0152bw
+      description: '1 oktober 2026, In de trein Apeldoorn - Enschede - mooie spiegeling van man met hoodie'
       collections:
         - straat
+        - featured
     exif:
       captureDate: 2026-10-01T20:17:12.000Z
       fNumber: 5.6
@@ -357,7 +367,7 @@ images:
   - path: straat/DSC_0155.jpg
     meta:
       title: Dsc 0155
-      description: ''
+      description: '1 oktober 2026, In de trein Apeldoorn - Enschede - de conducteurs'
       collections:
         - straat
     exif:
